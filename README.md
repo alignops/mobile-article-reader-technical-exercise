@@ -10,10 +10,6 @@ runs, but neither works correctly yet. Each app contains **a few intentional
 bugs and one unfinished feature**. Your job is to get both apps behaving as
 described in the spec below.
 
-> If you only have time for one platform, that's completely fine — do the one
-> you're strongest in first, and leave notes on the other. We'd rather see one
-> platform done well than two done halfway.
-
 ---
 
 ## What the app should do
