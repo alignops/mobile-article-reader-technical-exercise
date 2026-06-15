@@ -1,7 +1,7 @@
 # Article Reader — Mobile Take-Home Exercise
 
 Welcome, and thanks for taking the time. This is a short, focused exercise
-(target: **2–4 hours total**) to see how you read unfamiliar code, debug, and
+(target: **3–6 hours total**) to see how you read unfamiliar code, debug, and
 finish a small feature on **native Android and iOS**.
 
 There are two tiny apps in this repo — one Android (Kotlin/Jetpack Compose) and
@@ -111,5 +111,4 @@ Pick **at most one** — these are optional signals, not requirements:
 - Persist bookmarks across app restarts.
 - A "Bookmarked only" filter toggle.
 
-Good luck — and please don't sink more than ~4 hours into this. If you hit the
-time limit, stop and tell us what you'd do next.
+Good luck
