@@ -1,0 +1,5 @@
+<resources>
+    <!-- Base theme. Material3 styling is driven from Compose, so a minimal
+         Material parent theme is all we need here. -->
+    <style name="Theme.ArticleReader" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
